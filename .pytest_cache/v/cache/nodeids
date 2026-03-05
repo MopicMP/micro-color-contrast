@@ -1,0 +1,5 @@
+[
+  "tests/test_micro_color_contrast.py::TestContrast::test_basic",
+  "tests/test_micro_color_contrast.py::TestContrast::test_empty",
+  "tests/test_micro_color_contrast.py::TestContrast::test_type_error"
+]
